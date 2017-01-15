@@ -12,10 +12,6 @@ All implementations are able to handle multi-class problems and do not require r
 
 Copyright (c) 2015 Filipe Rodrigues
 
-![alt tag](https://zenodo.org/badge/48492487.svg)
-
-[![DOI](https://zenodo.org/badge/48492487.svg)](https://zenodo.org/badge/latestdoi/48492487)
-
 This program is free software. You can redistribute it and/or modify it under the terms of the GNU General Public License, version 3, as published by the Free Software Foundation.
 
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
