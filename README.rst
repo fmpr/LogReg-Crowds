@@ -12,7 +12,9 @@ All implementations are able to handle multi-class problems and do not require r
 
 Copyright (c) 2015 Filipe Rodrigues
 
-<a href="https://zenodo.org/badge/latestdoi/48492487"><img src="https://zenodo.org/badge/48492487.svg" alt="DOI"></a>
+![alt tag](https://zenodo.org/badge/48492487.svg)
+
+[![DOI](https://zenodo.org/badge/48492487.svg)](https://zenodo.org/badge/latestdoi/48492487)
 
 This program is free software. You can redistribute it and/or modify it under the terms of the GNU General Public License, version 3, as published by the Free Software Foundation.
 
